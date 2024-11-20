@@ -116,7 +116,8 @@ footer ul{
     flex-direction: row;
     flex-wrap: wrap;
     gap:2rem;
-    margin-left: 33.5rem;
+    justify-content: center;
+    align-items: center;
 }
 footer ul li:hover{
     cursor: pointer;
